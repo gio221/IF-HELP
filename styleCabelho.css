@@ -1,0 +1,71 @@
+.links{
+
+  background-color: #213d55;
+  color: #abe2abff;
+  padding: 20px;
+  text-decoration: none;
+  border-right: 2px solid  #abe2abff;
+  border-left: 2px solid  #abe2abff;
+}
+.links:hover{
+  color: #abe2abff;
+}
+
+#container{
+  margin-top: 40px;
+  height: 600px;
+}
+#secao-materias{
+  height:550px;
+  padding-top:30px;
+  
+}
+#relogio{
+  height:100px;
+  
+}
+#filtros{
+  height:100px;
+  
+}
+.accordion{
+  margin-right: 10%;
+  margin-left: 10%;
+}
+/*css pagina Sobre*/
+#linha-vertical{
+  height: 50px;
+  background-color: #abe2ab;
+  margin-right: 40px;
+  margin-left: 40px;
+}
+article{
+  height: 300px;
+ 
+  
+}
+article{
+  opacity: 0,5;
+}
+h1{
+  text-align: center;
+  padding: 50px;
+}
+.equipe{
+  height: 300px ;
+ 
+  padding-top: 20px;
+}
+
+
+footer{
+  height: 100px;
+  padding-top: 20px;
+  background-color: #3c3d41;
+  color: white;
+}
+
+
+
+
+
